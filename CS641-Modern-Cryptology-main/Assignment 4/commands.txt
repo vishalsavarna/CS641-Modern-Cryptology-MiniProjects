@@ -1,3 +1,0 @@
-The commands used to solve this level are executed in the following sequence:
-
-go->dive->dive->back->pull->go->back->enter->wave->back->back->thrnxxtzy->read->the_magic_of_wand->c->read->skwvjxdsgq

@@ -1,5 +1,0 @@
-list
-go
-read
-enter
-read

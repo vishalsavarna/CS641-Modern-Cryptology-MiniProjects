@@ -1,3 +1,0 @@
-The Cryptosystem used in this level is Vigenere Cipher with the Key kcgcdfccb.
-
-Vigenere Cipher is a polyalphabetic substitution cipher. 

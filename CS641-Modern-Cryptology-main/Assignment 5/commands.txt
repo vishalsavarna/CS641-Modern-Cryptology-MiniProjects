@@ -1,3 +1,0 @@
-The commands used to solve this level are executed in the following sequence:
-
-go->wave->dive->go->read->password->c->wmtvcbnzha
